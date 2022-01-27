@@ -1,0 +1,1 @@
+module.exports = require("/Users/thor3/Documents/using-gatsby-image/src/utils/typography.js")

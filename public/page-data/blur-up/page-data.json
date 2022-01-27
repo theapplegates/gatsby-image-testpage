@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-blur-up-js",
+    "path": "/blur-up/",
+    "result": {"data":{"coverImage":{"credit":"Igor Son","title":"Plant with leaves","localFile":null},"floatingImage":{"credit":"Charles Deluvio","title":"Pug without hoodie","localFile":null},"fullWidthImage":{"credit":"Martin Reisch","title":"Alien in the forest","localFile":null},"galleryImagesCropped":{"edges":[{"node":{"credit":"Ryan Christodoulou","title":"Beach","localFile":null}},{"node":{"credit":"Simone Hutsch","title":"Top of house","localFile":null}},{"node":{"credit":"Simone Hutsch","title":"Gala","localFile":null}},{"node":{"credit":"Spencer Watson","title":"Pool from above","localFile":null}},{"node":{"credit":"Syd Sujuaan","title":"Beach and tents from above","localFile":null}},{"node":{"credit":"Yoann Siloine","title":"Polaroid Pronto 600","localFile":null}}]}},"pageContext":{}},
+    "staticQueryHashes": []}

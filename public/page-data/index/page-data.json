@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"coverImage":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#e8e8e8","images":{"fallback":{"src":"/static/e1f63e76ee0c3752c8b671e07098bf78/85367/alexander-andrews-260988-unsplash-edited.jpg","srcSet":"/static/e1f63e76ee0c3752c8b671e07098bf78/3b0a8/alexander-andrews-260988-unsplash-edited.jpg 600w,\n/static/e1f63e76ee0c3752c8b671e07098bf78/2ebdd/alexander-andrews-260988-unsplash-edited.jpg 1200w,\n/static/e1f63e76ee0c3752c8b671e07098bf78/85367/alexander-andrews-260988-unsplash-edited.jpg 2400w","sizes":"(min-width: 2400px) 2400px, 100vw"},"sources":[{"srcSet":"/static/e1f63e76ee0c3752c8b671e07098bf78/cb372/alexander-andrews-260988-unsplash-edited.webp 600w,\n/static/e1f63e76ee0c3752c8b671e07098bf78/b9026/alexander-andrews-260988-unsplash-edited.webp 1200w,\n/static/e1f63e76ee0c3752c8b671e07098bf78/9bf84/alexander-andrews-260988-unsplash-edited.webp 2400w","type":"image/webp","sizes":"(min-width: 2400px) 2400px, 100vw"}]},"width":2400,"height":3659}}}},"pageContext":{}},
+    "staticQueryHashes": []}
